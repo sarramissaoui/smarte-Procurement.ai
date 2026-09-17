@@ -1,4 +1,4 @@
-# 🚀 SmartTender AI
+# 🚀 smarte-Procurement.ai
 ## Intelligent Automation of the Tendering Process
 
 ---
